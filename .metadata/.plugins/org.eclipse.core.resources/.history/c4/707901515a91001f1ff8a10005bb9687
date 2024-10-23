@@ -1,0 +1,20 @@
+package com.onetomany;
+
+import java.util.List;
+
+import com.onetoone.Answer;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.OneToMany;
+
+@Entity
+public class Question1 {
+	@Id
+	int qid;
+	String question;
+	@OneToMany(mappedBy = "ques")
+	List<AnswerM> ans;
+	
+
+}

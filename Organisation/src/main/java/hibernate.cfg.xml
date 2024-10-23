@@ -12,7 +12,15 @@
     <property name="show_sql">true</property>
     <property name="hbm2ddl.auto">update</property>
     <mapping class="com.orgnize.Employee" />
+   <!-- One To one Relationship -->
     <mapping class="com.onetoone.Question" />
     <mapping class="com.onetoone.Answer" />
+
+   <!-- One To Many Relationship -->
+    <mapping class="com.onetomany.Question1" />
+    <mapping class="com.onetomany.AnswerM" />
+    
+   <!-- Many To Many Relationship -->
+    
   </session-factory>
 </hibernate-configuration>
