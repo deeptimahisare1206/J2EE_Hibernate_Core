@@ -1,0 +1,14 @@
+package com.orgnize;
+
+import jakarta.persistence.*;
+
+@Entity
+public class Employee {
+	@Id
+	private Integer emp_id;
+	
+	private String emp_name;
+	
+	private Double salary;
+
+}
