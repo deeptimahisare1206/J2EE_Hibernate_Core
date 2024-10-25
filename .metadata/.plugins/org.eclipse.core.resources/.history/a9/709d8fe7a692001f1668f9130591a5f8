@@ -1,0 +1,17 @@
+package manytomany;
+
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+
+
+@Entity
+public class Answer2 {
+	
+	@Id
+	int aid;
+	String answer;
+	QuestionM ques;
+	
+
+}

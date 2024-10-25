@@ -1,9 +1,0 @@
-package com.mycompany;
-
-public class Student {
-	private Integer roll;
-	private String name;
-	private Double percent;
-	
-
-}
