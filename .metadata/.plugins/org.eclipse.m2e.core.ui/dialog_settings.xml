@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\6.Eclipse\Organisation\src\main\java\manytomany\App4.java"/>
 			<item value="E:\6.Eclipse\Hiber_1\src\main\java\hibernate.cfg.xml"/>
 			<item value="E:\6.Eclipse\Test_WEB1\src\main\webapp\index.jsp"/>
 			<item value="E:\6.Eclipse"/>
@@ -28,14 +29,17 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.mypackage"/>
 			<item value="com.orgnize"/>
 			<item value="com.mycompany"/>
 		</list>
 		<list key="groupId">
+			<item value="CRUD"/>
 			<item value="Organisation"/>
 			<item value="Hiber_1"/>
 		</list>
 		<list key="artifactId">
+			<item value="CRUD"/>
 			<item value="Organisation"/>
 			<item value="Hiber_1"/>
 		</list>
