@@ -34,11 +34,13 @@
 			<item value="com.mycompany"/>
 		</list>
 		<list key="groupId">
+			<item value="Assignment1"/>
 			<item value="CRUD"/>
 			<item value="Organisation"/>
 			<item value="Hiber_1"/>
 		</list>
 		<list key="artifactId">
+			<item value="Assignment1"/>
 			<item value="CRUD"/>
 			<item value="Organisation"/>
 			<item value="Hiber_1"/>
