@@ -6,6 +6,7 @@ import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
+import org.hibernate.query.Query;
 public class App 
 {
     public static void main( String[] args )
@@ -22,6 +23,7 @@ public class App
         System.out.println( "Enter 2 to select data." );
         System.out.println( "Enter 3 to update data." );
         System.out.println( "Enter 4 to delete data." );
+        System.out.println( "Enter 5 to select all data." );
         int n = sc.nextInt();
         Student st;
         switch (n) {
@@ -97,6 +99,22 @@ public class App
 			tx = sess.beginTransaction();
 	    	sess.delete(st);
 	    	tx.commit();
+			break;
+			
+		case 5:
+			Query q = sess.createQuery("from Student");
+			List<Student> li = q.list();
+			
+			for (Student std : li) {
+				
+				System.out.println("Student Id = " + std.getRoll());
+				System.out.println("Student Name = " + std.getName());
+				System.out.println("Student Pertage = " + std.getPercent());
+				System.out.println("=================================================================");
+				
+			}
+			
+			
 			break;
 		default:
 			System.out.println("default");

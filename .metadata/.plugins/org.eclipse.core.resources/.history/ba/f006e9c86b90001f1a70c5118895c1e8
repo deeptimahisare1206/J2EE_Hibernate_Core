@@ -1,9 +1,0 @@
-package com.onetoone;
-
-public class Question {
-	
-	int qid;
-	String question;
-	Answer ans;
-
-}

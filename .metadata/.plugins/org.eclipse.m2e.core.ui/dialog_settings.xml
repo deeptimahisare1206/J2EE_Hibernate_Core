@@ -29,17 +29,22 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.secondlvlCache"/>
+			<item value="Ca"/>
 			<item value="com.mypackage"/>
 			<item value="com.orgnize"/>
 			<item value="com.mycompany"/>
 		</list>
 		<list key="groupId">
+			<item value="Caching"/>
+			<item value="Ca"/>
 			<item value="Assignment1"/>
 			<item value="CRUD"/>
 			<item value="Organisation"/>
 			<item value="Hiber_1"/>
 		</list>
 		<list key="artifactId">
+			<item value="Caching"/>
 			<item value="Assignment1"/>
 			<item value="CRUD"/>
 			<item value="Organisation"/>
