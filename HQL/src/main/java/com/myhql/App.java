@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.query.Query;
 
@@ -22,7 +23,7 @@ public class App
     	SessionFactory sf = cfg.buildSessionFactory();
     	Session sess = sf.openSession();
     	
-//    	Query<Faculty> q = sess.createQuery("from Faculty");  //select all
+//    	Query<Faculty> q1 = sess.createQuery("from Faculty");  //select all
 // __________________________________________________________________________________________________________________?
 //    	Query<Faculty> q = sess.createQuery("from Faculty where name='Deepti'"); //select according to name
 // __________________________________________________________________________________________________________________?
@@ -45,22 +46,52 @@ public class App
 //    	q.setParameter("minn", min);
 //    	q.setParameter("maxx", max);
 // __________________________________________________________________________________________________________________?
+//
+//    	Query<Faculty> q = sess.createQuery("from Faculty");// select info according to number 
+//    	q.setFirstResult(11);
+//    	q.setMaxResults(5);
+    	
+    	
 
-    	Query<Faculty> q = sess.createQuery("from Faculty");// select info according to number 
-    	q.setFirstResult(11);
-    	q.setMaxResults(5);
+
+//		List<Faculty> li = q1.list();
+//		
+//		for (Faculty std : li) {
+//			
+//			System.out.println("Faculty Id = " + std.getRoll());
+//			System.out.println("Faculty Name = " + std.getName());
+//			System.out.println("Faculty Salary = " + std.getSalary());
+//			System.out.println("=================================================================");
+//			
+//		}
+		
 // __________________________________________________________________________________________________________________?
 
-		List<Faculty> li = q.list();
-		
-		for (Faculty std : li) {
-			
-			System.out.println("Faculty Id = " + std.getRoll());
-			System.out.println("Faculty Name = " + std.getName());
-			System.out.println("Faculty Salary = " + std.getSalary());
-			System.out.println("=================================================================");
-			
+    	//Full Query in Hibernate:
+    	
+    	Query<Faculty> q = sess.createNativeQuery("insert into Faculty values(?,?,?)");
+    	q.setParameter(1, 21);
+    	q.setParameter(2, "Deepti");
+    	q.setParameter(3, 500000);
+    	
+    	Query<Faculty[]> q1 = sess.createNativeQuery("select * from Faculty");
+    	
+    	List<Faculty[]> li = q1.getResultList();
+    	for (Faculty[] fac : li) {
+			for (Faculty fct :fac) {
+				System.out.println("Faculty Id = " + fct.getRoll());
+				System.out.println("Faculty Name = " + fct.getName());
+				System.out.println("Faculty Salary = " + fct.getSalary());
+				System.out.println("=================================================================");
+//				
+			}
 		}
+// __________________________________________________________________________________________________________________?
+
+		Transaction tx = sess.beginTransaction();
+    	tx.commit();
+    	sess.save(q);
+    	
 		sess.close();
 		sf.close();
 		
