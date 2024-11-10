@@ -4754,3 +4754,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration SpringApplication r
 2024-11-09 22:12:23,373 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\HQL\src\test\resources
 2024-11-09 22:12:36,389 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\HQL\src\main\resources
 2024-11-09 22:12:36,393 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\HQL\src\test\resources
+2024-11-10 11:35:58,375 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
