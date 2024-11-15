@@ -26,9 +26,6 @@
     <fullyQualifiedTypeName name="jakarta.persistence.CascadeType"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
     <fullyQualifiedTypeName name="com.mypackage.Patient"/>
-    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
-    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
-    <fullyQualifiedTypeName name="org.hibernate.Session"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="com.secondlvlCache.Patient"/>
     <fullyQualifiedTypeName name="com.secondlvlCache.Library"/>
@@ -43,8 +40,16 @@
     <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
-    <fullyQualifiedTypeName name="org.hibernate.query.Query"/>
     <fullyQualifiedTypeName name="com.myhql.Faculty"/>
+    <fullyQualifiedTypeName name="org.hibernate.Transaction"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.Session"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.criteria.CriteriaBuilder"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.criteria.CriteriaQuery"/>
+    <fullyQualifiedTypeName name="com.mypackage.Doctor"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.criteria.Root"/>
+    <fullyQualifiedTypeName name="org.hibernate.query.Query"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.criteria.Predicate"/>
 </qualifiedTypeNameHistroy>

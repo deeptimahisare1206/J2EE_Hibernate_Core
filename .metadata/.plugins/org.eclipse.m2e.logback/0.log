@@ -4755,3 +4755,329 @@ org.eclipse.core.runtime.CoreException: Launch configuration SpringApplication r
 2024-11-09 22:12:36,389 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\HQL\src\main\resources
 2024-11-09 22:12:36,393 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\HQL\src\test\resources
 2024-11-10 11:35:58,375 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-13 17:02:57,382 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-13 17:06:07,677 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313 [645])
+2024-11-13 17:06:07,680 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\aopalliance-1.0.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\guice-5.1.0.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpclient-4.5.14.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\httpcore-4.4.16.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jansi-2.4.1.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\jcl-over-slf4j-1.7.36.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-artifact-3.9.7.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-builder-support-3.9.7.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-compat-3.9.7.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-core-3.9.7.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-embedder-3.9.7.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-3.9.7.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-model-builder-3.9.7.jar
+2024-11-13 17:06:07,681 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-plugin-api-3.9.7.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-repository-metadata-3.9.7.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-api-1.9.20.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-connector-basic-1.9.20.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-impl-1.9.20.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-named-locks-1.9.20.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-provider-3.9.7.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-spi-1.9.20.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-file-1.9.20.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-http-1.9.20.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-transport-wagon-1.9.20.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-resolver-util-1.9.20.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-3.9.7.jar
+2024-11-13 17:06:07,682 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-settings-builder-3.9.7.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\maven-shared-utils-3.4.2.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.inject-0.9.0.M2.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\org.eclipse.sisu.plexus-0.9.0.M2.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-0.0.7.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-build-api-1.2.0.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-cipher-2.0.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-classworlds-2.8.0.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-component-annotations-2.1.0.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-interpolation-1.27.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-sec-dispatcher-2.0.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\plexus-utils-3.5.1.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-file-3.5.3.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-3.5.3.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-http-shared-3.5.3.jar
+2024-11-13 17:06:07,683 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.eclipse.m2e.maven.runtime_3.9.700.20240602-2313\jars\wagon-provider-api-3.5.3.jar
+2024-11-13 17:06:07,686 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.2.0.jre [16])
+2024-11-13 17:06:07,686 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\com.google.guava_33.2.0.jre.jar
+2024-11-13 17:06:07,687 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.13 [1010])
+2024-11-13 17:06:07,687 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\slf4j.api_2.0.13.jar
+2024-11-13 17:06:07,687 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [33])
+2024-11-13 17:06:07,687 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2024-11-13 17:06:07,688 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20200909-1856 [44])
+2024-11-13 17:06:07,688 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\javax.annotation_1.3.5.v20200909-1856.jar
+2024-11-13 17:06:07,688 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.8.0 [78])
+2024-11-13 17:06:07,689 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.apache.commons.cli_1.8.0.jar
+2024-11-13 17:06:07,689 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [81])
+2024-11-13 17:06:07,689 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2024-11-13 17:06:07,689 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.lang3_3.14.0 [89])
+2024-11-13 17:06:07,689 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\org.apache.commons.lang3_3.14.0.jar
+2024-11-13 17:06:07,689 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2024-11-13 17:06:07,689 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: E:\eclipse\plugins\com.google.guava.failureaccess_1.0.2.jar
+2024-11-13 17:06:07,693 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\deept\AppData\Local\Temp\m2e-archetypeGenerator10056677086313517047":
+2024-11-13 17:06:07,698 [Worker-3: Launching mavenrun-d6455d3b-2535-4bc0-a36b-53b5d946664f] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.1 -DgroupId=H_Mapping_Criteria -DartifactId=H_Mapping_Criteria -Dversion=0.0.1-SNAPSHOT -Dpackage=com.mypackage -DoutputDirectory=E:\6.Eclipse -Dstyle.color=always -U archetype:generate
+2024-11-13 17:07:52,771 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\6.Eclipse\H_Mapping_Criteria\pom.xml
+2024-11-13 17:07:53,493 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: H_Mapping_Criteria:H_Mapping_Criteria:0.0.1-SNAPSHOT @ E:\6.Eclipse\H_Mapping_Criteria\pom.xml.
+2024-11-13 17:07:54,192 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /H_Mapping_Criteria/src/main/java
+2024-11-13 17:07:54,193 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /H_Mapping_Criteria/src/main/resources
+2024-11-13 17:07:54,197 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /H_Mapping_Criteria/src/test/java
+2024-11-13 17:07:54,197 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /H_Mapping_Criteria/src/test/resources
+2024-11-13 17:07:54,269 [Worker-10: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2024-11-13 17:07:54,988 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:07:54,993 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:13:07,038 [Worker-21: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: H_Mapping_Criteria:H_Mapping_Criteria:0.0.1-SNAPSHOT @ E:\6.Eclipse\H_Mapping_Criteria\pom.xml.
+2024-11-13 17:13:07,454 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:13:07,460 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:13:09,021 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:13:09,024 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:13:34,062 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:13:34,066 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:15:38,939 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:15:38,942 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:16:15,866 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:16:15,869 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:16:59,179 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:16:59,183 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:17:13,851 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:17:13,862 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:19:02,390 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:19:02,392 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:21:13,183 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:21:13,187 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:21:51,238 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:21:51,244 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:22:41,301 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:22:41,305 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:22:56,351 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:22:56,353 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:23:06,998 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:23:07,000 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:23:44,341 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:23:44,345 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:24:05,381 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:24:05,383 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:24:15,840 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:24:15,842 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:25:02,338 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:25:02,340 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:25:51,471 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:25:51,474 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:26:22,129 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:26:22,133 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:31:17,465 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:31:17,467 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:32:06,159 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:32:06,161 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:32:37,356 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:32:37,357 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:34:43,014 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:34:43,017 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:38:01,898 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:38:01,911 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:39:01,222 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:39:01,224 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:41:59,042 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:41:59,044 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:43:27,512 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:43:27,516 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:45:53,690 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: H_hibernat_criteria:H_hibernat_criteria:0.0.1-SNAPSHOT @ E:\6.Eclipse\H_hibernat_criteria\pom.xml.
+2024-11-13 17:45:53,916 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_hibernat_criteria\src\main\resources
+2024-11-13 17:45:53,917 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_hibernat_criteria\src\test\resources
+2024-11-13 17:45:54,227 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_hibernat_criteria\src\main\resources
+2024-11-13 17:45:54,229 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_hibernat_criteria\src\test\resources
+2024-11-13 17:45:54,315 [Worker-39: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: H_hibernat_criteria:H_hibernat_criteria:0.0.1-SNAPSHOT @ E:\6.Eclipse\H_hibernat_criteria\pom.xml.
+2024-11-13 17:46:40,976 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_hibernat_criteria\src\main\resources
+2024-11-13 17:46:40,978 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_hibernat_criteria\src\test\resources
+2024-11-13 17:47:52,783 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:47:52,784 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:49:54,735 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:49:54,741 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:50:56,959 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: H_Mapping_Criteria:H_Mapping_Criteria:0.0.1-SNAPSHOT @ E:\6.Eclipse\H_Mapping_Criteria\pom.xml.
+2024-11-13 17:50:57,146 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:50:57,147 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:51:31,097 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:51:31,104 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:51:34,360 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:51:34,362 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-13 17:52:17,963 [Worker-39: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (6) references closed project H_hibernat_criteria
+org.eclipse.core.runtime.CoreException: Launch configuration App (6) references closed project H_hibernat_criteria
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1741)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-11-13 17:52:17,989 [Worker-39: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (6) references closed project H_hibernat_criteria
+org.eclipse.core.runtime.CoreException: Launch configuration App (6) references closed project H_hibernat_criteria
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1741)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-11-13 17:52:17,992 [Worker-39: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration App (6) references closed project H_hibernat_criteria
+org.eclipse.core.runtime.CoreException: Launch configuration App (6) references closed project H_hibernat_criteria
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1867)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1741)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:892)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1042)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:458)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:339)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:278)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-11-13 17:53:16,028 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-13 17:53:16,030 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 11:07:36,914 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-14 11:09:00,378 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 11:09:00,397 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 11:21:49,157 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 11:21:49,163 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 11:23:47,921 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 11:23:47,927 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 11:24:43,543 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 11:24:43,550 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 11:37:37,669 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-14 13:26:07,415 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-14 13:26:47,670 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\Assignment1\src\main\resources
+2024-11-14 13:26:47,679 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\Assignment1\src\test\resources
+2024-11-14 13:26:48,691 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\CRUD\src\main\resources
+2024-11-14 13:26:48,694 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\CRUD\src\test\resources
+2024-11-14 13:26:49,607 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\Caching\src\main\resources
+2024-11-14 13:26:49,611 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\Caching\src\test\resources
+2024-11-14 13:26:50,359 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\HQL\src\main\resources
+2024-11-14 13:26:50,362 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\HQL\src\test\resources
+2024-11-14 13:26:51,095 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:26:51,102 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:26:51,935 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\Hiber_1\src\main\resources
+2024-11-14 13:26:51,947 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\Hiber_1\src\test\resources
+2024-11-14 13:26:52,351 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\Organisation\src\main\resources
+2024-11-14 13:26:52,356 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\Organisation\src\test\resources
+2024-11-14 13:28:43,754 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:28:43,757 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:29:36,986 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:29:36,990 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:30:41,268 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:30:41,271 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:31:09,575 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:31:09,577 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:31:23,401 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:31:23,402 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:32:03,655 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:32:03,657 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:33:52,132 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:33:52,158 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:34:33,075 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:34:33,077 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:34:39,870 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:34:39,872 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:35:19,445 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:35:19,447 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:35:55,857 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:35:55,859 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:37:14,966 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:37:14,968 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:37:36,953 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:37:36,955 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:37:56,161 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:37:56,163 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:38:30,940 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:38:30,944 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:39:49,168 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:39:49,169 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:40:36,145 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:40:36,147 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:41:17,841 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:41:17,843 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:41:35,038 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:41:35,040 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:41:58,419 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:41:58,421 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:44:31,006 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:44:31,008 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:45:17,833 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:45:17,835 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:45:33,938 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:45:33,940 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:45:55,538 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:45:55,540 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:46:23,169 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:46:23,171 [Worker-10: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:46:58,319 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:46:58,320 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:48:37,062 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:48:37,064 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:58:26,150 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:58:26,152 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:58:56,609 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:58:56,612 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 13:59:15,121 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 13:59:15,123 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:01:32,551 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:01:32,553 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:02:19,635 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:02:19,637 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:02:50,492 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:02:50,493 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:04:26,937 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:04:26,941 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:05:35,635 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:05:35,637 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:06:39,244 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:06:39,246 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:07:32,227 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:07:32,229 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:13:51,013 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:13:51,015 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:14:38,943 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:14:38,945 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:14:59,087 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:14:59,089 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:15:18,809 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:15:18,811 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-14 14:15:34,329 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
+2024-11-14 14:15:34,330 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
