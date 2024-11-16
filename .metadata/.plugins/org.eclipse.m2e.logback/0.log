@@ -5081,3 +5081,4 @@ org.eclipse.core.runtime.CoreException: Launch configuration App (6) references 
 2024-11-14 14:15:18,811 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
 2024-11-14 14:15:34,329 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\main\resources
 2024-11-14 14:15:34,330 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory E:\6.Eclipse\H_Mapping_Criteria\src\test\resources
+2024-11-15 22:09:39,423 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
