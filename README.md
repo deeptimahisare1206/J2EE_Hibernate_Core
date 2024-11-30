@@ -3,8 +3,8 @@
   </h1>
 
 <ul>
-<li>Hibernate</li>
+<li>Hibernate-Core</li>
 <li>Maven Project</li>
-<li></li>
-<li></li>
+<li>Adding Servers</li>
+<li>HQL Queries</li>
 </ul>
