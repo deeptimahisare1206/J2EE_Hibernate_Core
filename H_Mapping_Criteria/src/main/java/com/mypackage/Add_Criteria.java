@@ -20,6 +20,7 @@ public class Add_Criteria {
 		SessionFactory sf = cfg.buildSessionFactory();
 		Session sess = sf.openSession();
 		
+		
 		CriteriaBuilder cb = sess.getCriteriaBuilder();
 		CriteriaQuery<Doctor> cq = cb.createQuery(Doctor.class);
 		

@@ -43,7 +43,6 @@ public class Filters {
 		Predicate ps = cb.gt(root.get("salary"), 20000);
 		cq.select(root).where(cb.and(pp,ps));
 		
-		
 		Query<Doctor> q = sess.createQuery(cq);
 		
 		List<Doctor> li = q.list();
